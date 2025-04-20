@@ -1,4 +1,4 @@
 kky-latihan
 -Konsisten Belajar HTML
 -Konsisten Belajar CSS
--Konsisten Belajar Javascript
+-Konsisten Belajar Github
